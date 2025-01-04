@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# UAS-PBO
-Sistem perpustakaan sederhana menggunakan bahasa pemrograman python
 =======
 # 📜 UAS PBO - Aplikasi Perpustakaan Sederhana
 
