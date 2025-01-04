@@ -1,6 +1,6 @@
 # 📜 UAS PBO - Aplikasi Perpustakaan Sederhana
 
-## Kelompok - Triple Sage Of Destruction
+## Kelompok - Triple Sages Of Destruction
 
 ### Anggota Tim:
 | Nama                   | Peran                         | NIM        |
