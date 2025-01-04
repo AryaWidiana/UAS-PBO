@@ -1,4 +1,3 @@
-=======
 # 📜 UAS PBO - Aplikasi Perpustakaan Sederhana
 
 ## Kelompok - Triple Sage Of Destruction
@@ -26,4 +25,3 @@ Pada proyek ini, kami mengembangkan sebuah Sistem Manajemen Buku yang dirancang 
 
 # 🎬 Project Demonstrasi
 [![Project Demo](https://img.youtube.com/vi/t4rmPK8y9e8/0.jpg)](https://youtu.be/t4rmPK8y9e8?si=R6ylClvrbQTIArsJ)
->>>>>>> 376cc9e (Manajemen Buku)
